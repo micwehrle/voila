@@ -1,0 +1,28 @@
+{
+	"name": "voila",
+	"title": "Voilà",
+	"version": "0.1.0",
+	"description": "A jQuery plugin that provides callbacks for images, letting you know when they've loaded.",
+	"keywords": [
+	  "image",
+	  "loading"
+	],
+	"author": {
+	  "name": "Nick Stakenburg",
+	  "url": "http://nickstakenburg.com"
+	},
+	"maintainers": [{
+	  "name": "Nick Stakenburg",
+	  "url": "http://nickstakenburg.com"
+	}],
+	"licenses": [{
+	  "type": "MIT",
+	  "url": "http://opensource.org/licenses/MIT"
+	}],
+	"bugs": "https://github.com/staaky/voila/issues",
+	"homepage": "https://github.com/staaky/voila",
+	"docs": "https://github.com/staaky/voila",
+	"dependencies": {
+	  "jquery": ">=1.8"
+	}
+}
